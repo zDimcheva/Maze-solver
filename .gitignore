@@ -1,0 +1,9 @@
+# The bin directory
+bin/
+
+# Compiled class files
+*.class
+
+# OS files #
+.DS_Store
+Thumbs.db
